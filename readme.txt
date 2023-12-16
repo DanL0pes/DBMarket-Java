@@ -1,0 +1,1 @@
+Put mysql-connector on External Java in project on eclipse
